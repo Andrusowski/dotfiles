@@ -1,6 +1,8 @@
 # dotfiles
 
-Font: System San Francisco Display
+Fonts:
+* System San Francisco Display (https://github.com/supermarin/YosemiteSanFranciscoFont)
+* Font Awesome (http://fontawesome.io)
 
 dependencies:
 * rofi
