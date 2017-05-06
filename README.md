@@ -7,7 +7,8 @@ Fonts:
 dependencies:
 * rofi
 * i3blocks
+* i3lock
 
 ```
-sudo apt-get install rofi i3blocks
+sudo apt-get install rofi i3blocks i3lock
 ```
