@@ -1,4 +1,4 @@
-# dotfile
+# dotfiles
 
 Font: System San Francisco Display
 
